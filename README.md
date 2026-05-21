@@ -17,3 +17,4 @@ Sou resiliente, valorizo a comunicação clara que aprendi no Marketing e busco 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Estudando
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
